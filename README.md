@@ -77,7 +77,7 @@ not g6(y6,a); endmodule
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 235018973
+ Developed by:V.Sanjay srisanth  RegisterNumber: 25018855
  
 **Logic symbol & Truthtable**
 <img width="1321" height="747" alt="Screenshot 2025-09-29 190218" src="https://github.com/user-attachments/assets/629920f3-1bb2-4abb-a29f-0b6c93ed1a12" />
